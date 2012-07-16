@@ -1,6 +1,6 @@
 What is this
 ================================
-Some easy excersizes are droped into this repo.
+Some easy excersizes are dropped into this repo.
 
 
 List of problems
